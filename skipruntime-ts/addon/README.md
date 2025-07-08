@@ -5,11 +5,11 @@ _Either_ this package or its WebAssembly analogue
 [`@skipruntime/wasm`](https://www.npmjs.com/package/@skipruntime/wasm) is
 required to run a Skip reactive service.
 
-See the [docs](https://skiplabs.io/docs) for more details.
+See the [docs](https://skiplabs.io/docs/getting_started#installation) for more details.
 
 ## Installation
 
-Install directly using npm (`npm i @skipruntime/native`)
+See the [docs](https://github.com/SkipLabs/skip/blob/main/INSTALL.md).
 
 Note that, if this package is installed alongside the
 [`@skiplabs/skip`](https://www.npmjs.com/package/@skiplabs/skip) meta-package,
